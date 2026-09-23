@@ -15,11 +15,10 @@ Folder structure is as follows:
   - 01_aaa
   - 02_bbb
   - ... etc. (for each script that has outputs)
-- metadata (contains all metadata used by / for scripts)
 - raw_data (contains raw data provided for assembly)
 - rna_data (contains rna data provided)
 - assemblies (contains the assembled genome/genomes)
 
-Due to data amount outputs, logs, raw_data and assemblies folder is .gitignored.
+Due to data amount outputs, logs, raw_data, rna_data and assemblies folder is .gitignored.
 
 Scripts were run in order unless specified.
